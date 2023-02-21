@@ -13,7 +13,7 @@ The project consists of two main parts: face detection and emotion recognition. 
 
 The model achieved an accuracy of 94% on training set and 68% on the test set, which is competitive with other state-of-the-art models for emotion recognition.
 
-The following is a real-live video demonstrating the sample run of the project
+The following is a real-live video demonstrating the sample run of the project with me testing it :)
 
 <video width="640" height="360" controls autoplay loop>
   <source src="Final_edit_final.mp4">
