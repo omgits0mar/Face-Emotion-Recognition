@@ -15,7 +15,11 @@ The model achieved an accuracy of 94% on training set and 68% on the test set, w
 
 The following is a real-live video demonstrating the sample run of the project
 <video src="Final_edit_0.webm" width="640" height="360" controls>
+  Your browser does not support the video tag.
 </video>
+
+
+
 
 ## References
 
