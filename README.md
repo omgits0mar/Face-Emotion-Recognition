@@ -1,9 +1,9 @@
 # Face Emotion Recognition
 This project is a deep learning-based approach to face detection using Haar-cascade and emotion recognition based on facial expressions. It recognizes the person's emotion to one of the seven classes: neutral, sad, depressed, happy, surprised, feared, and disgust. The model is trained on the 
-[FER-2013 dataset](https://www.kaggle.com/deadskull7/fer2013) using the MobileNetv2 architecture.
+[FER-2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013) using the MobileNetv2 architecture.
 
 ## Dataset
-The [FER-2013 dataset](https://www.kaggle.com/deadskull7/fer2013) contains 35,887 grayscale images of faces labeled with one of the seven emotions. The images are 48x48 pixels in size.
+The [FER-2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013) contains 35,887 grayscale images of faces labeled with one of the seven emotions. The images are 48x48 pixels in size.
 
 ## Methodology
 
